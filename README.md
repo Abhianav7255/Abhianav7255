@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://rajacepat.com/assets/frontend/img/webdev.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham-jaishu&label=Profile%20views&color=0e75b6&style=flat" alt="shubham-jaishu" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhinav7255&label=Profile%20views&color=0e75b6&style=flat" alt="shubham-jaishu" /> </p>
 
 - 🌱 I’m currently learning *Backend, Data Structure*
 
@@ -13,9 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Avisaah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubhamjaishu" height="30" width="40" /></a>
+<a href="https://twitter.com/Avisaah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Abhinav7255" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/abhinav-kumar-a21298252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-jaiswal" height="30" width="40" /></a>
-<a href="https://instagram.com/avi_saah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shubham_jaishu" height="30" width="40" /></a>
+<a href="https://instagram.com/avi_saah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Abhinav7255" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/avikumar7255" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shubham_jaishu" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/avi_kumar7255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sjaishu" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/aertyuihwv8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shubhamq0xs" height="30" width="40" /></a>
